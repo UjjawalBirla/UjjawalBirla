@@ -25,7 +25,7 @@ Passionate about building modern web applications with clean UI, scalable code, 
 ## 🌐 Connect With Me
 
 <!-- <p align="center"> -->
-<div>
+<div   align="cente">
 <a href="https://github.com/UjjawalBirla" target="_blank">
 <img src="https://skillicons.dev/icons?i=github" width="48"/>
 </a>
