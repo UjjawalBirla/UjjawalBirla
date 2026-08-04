@@ -16,7 +16,7 @@ Passionate about building modern web applications with clean UI, scalable code, 
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,bootstrap,tailwind,java,spring,mysql,git,github,vscode,postman,firebase" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,tailwind,react,vite,java,spring,mysql,git,github,vscode,postman,firebase" />
 
 </p>
 
