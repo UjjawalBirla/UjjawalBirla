@@ -1,135 +1,45 @@
 <div align="center">
 
-<img src="./assets/logo.png" width="150" alt="Logo"/>
+# Hi 👋, I'm Ujjawal Birla
 
-# 🚀 Project Name
-
-### Modern • Responsive • Fast
+### 💻 Java Full Stack Developer | React Developer | Problem Solver
 
 <p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
-
-<p>
-  <a href="https://your-live-demo-link.com">
-    <img src="https://img.shields.io/badge/Live_Demo-Visit-success?style=for-the-badge"/>
-  </a>
-
-  <a href="https://github.com/UjjawalBirla">
-    <img src="https://img.shields.io/badge/GitHub-UjjawalBirla-black?style=for-the-badge&logo=github"/>
-  </a>
-
+Passionate about building modern web applications with clean UI, scalable code, and efficient backend solutions. Continuously learning new technologies and improving problem-solving skills.
 </p>
 
 </div>
 
 ---
 
-# 📖 About
+## 🚀 Languages & Tools
 
-A modern and responsive web application built using **React + Vite** with a clean UI and smooth user experience.
+<p align="center">
 
----
-
-# ✨ Features
-
-- ✅ Responsive Design
-- 🌙 Dark Mode
-- ⚡ Fast Performance
-- 📱 Mobile Friendly
-- 🎨 Modern UI
-- 💾 Local Storage
-- 🔍 Search Functionality
-
----
-
-# 🛠 Tech Stack
-
-| Technology | Used |
-|------------|------|
-| React | ✅ |
-| Vite | ✅ |
-| JavaScript | ✅ |
-| CSS | ✅ |
-
----
-
-# 📸 Screenshots
-
-## Home
-
-<img src="./screenshots/home.png"/>
-
----
-
-## Dashboard
-
-<img src="./screenshots/dashboard.png"/>
-
----
-
-# 📂 Folder Structure
-
-```text
-Project
-│
-├── public
-├── src
-│   ├── assets
-│   ├── components
-│   ├── pages
-│   ├── App.jsx
-│   └── main.jsx
-│
-├── package.json
-└── README.md
-```
-
----
-
-# ⚙ Installation
-
-```bash
-git clone https://github.com/UjjawalBirla/PROJECT_NAME.git
-
-cd PROJECT_NAME
-
-npm install
-
-npm run dev
-```
-
----
-
-# 🚀 Live Demo
-
-👉 https://your-live-demo-link.com
-
----
-
-# 👨‍💻 Author
-
-### Ujjawal Birla
-
-<p align="left">
-
-<a href="https://github.com/UjjawalBirla">
-<img src="https://img.shields.io/badge/GitHub-UjjawalBirla-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/ujjawal-birla-02310a242">
-<img src="https://img.shields.io/badge/LinkedIn-Ujjawal_Birla-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,bootstrap,tailwind,java,spring,mysql,git,github,vscode,postman,firebase" />
 
 </p>
 
 ---
 
-<div align="center">
+## 🌐 Connect With Me
 
-### ⭐ If you like this project, don't forget to Star it ⭐
+<p align="center">
 
-</div>
+<a href="https://github.com/UjjawalBirla" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" width="48"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/ujjawal-birla-02310a242" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="mailto:ujjawalbirla2004@gmail.com">
+<img src="https://img.icons8.com/fluency/48/gmail-new.png"/>
+</a>
+
+</p>
