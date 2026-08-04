@@ -30,13 +30,13 @@ Passionate about building modern web applications with clean UI, scalable code, 
 <img src="https://skillicons.dev/icons?i=github" width="48"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;
+&nbsp;
 
 <a href="https://www.linkedin.com/in/ujjawal-birla-02310a242" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;
+&nbsp;
 
 <a href="mailto:ujjawalbirla2004@gmail.com">
 <img src="https://img.icons8.com/fluency/48/gmail-new.png"/>
