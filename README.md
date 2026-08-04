@@ -27,13 +27,13 @@ Passionate about building modern web applications with clean UI, scalable code, 
 <!-- <p align="center"> -->
 
 <a href="https://github.com/UjjawalBirla" target="_blank">
-<img src="https://skillicons.dev/icons?i=github" width="20"/>
+<img src="https://skillicons.dev/icons?i=github" width="48"/>
 </a>
 
 &nbsp;
 
 <a href="https://www.linkedin.com/in/ujjawal-birla-02310a242" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" width="20/>
+<img src="https://skillicons.dev/icons?i=linkedin" width="48/>
 </a>
 
 &nbsp;
