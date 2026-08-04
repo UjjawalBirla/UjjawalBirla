@@ -10,6 +10,7 @@
 - CSS
 - JavaScript
 - React
+- Tailwind CSS
 
 📫 Contact - +91 9926068558
 
