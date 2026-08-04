@@ -24,7 +24,7 @@ Passionate about building modern web applications with clean UI, scalable code, 
 
 ## 🌐 Connect With Me
 
-<p align="center">
+<!-- <p align="center"> -->
 
 <a href="https://github.com/UjjawalBirla" target="_blank">
 <img src="https://skillicons.dev/icons?i=github" width="20"/>
@@ -42,4 +42,4 @@ Passionate about building modern web applications with clean UI, scalable code, 
 <img src="https://img.icons8.com/fluency/48/gmail-new.png"/>
 </a>
 
-</p>
+<!-- </p> -->
